@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/MAPme"
+        android:numericShortcut="1"
+        android:title="MAPme"/>
+<item
+        android:id="@+id/aboutus"
+        android:numericShortcut="2"
+        android:title="Aboutus"/>
+<item
+        android:id="@+id/prefrences"
+        android:numericShortcut="3"
+        android:title="Prefrences"/>
+</menu>

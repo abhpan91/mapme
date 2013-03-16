@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="list">
+        <item>satalite mode</item>
+        <item>trrain mode</item>
+        <item>hybrid mode</item>
+        <item>normal mode</item>
+    </string-array>
+    <string-array name="lvalues">
+        <item>satalite</item>
+        <item>trrain</item>
+        <item>hybrid</item>
+        <item>normal</item>
+    </string-array>
+    <string-array name="tosearch">
+        <item>airport</item>
+        <item>atm</item>
+        <item>bank</item>
+        <item>doctor</item>
+        <item>food</item>
+        <item>train_station</item>
+    </string-array>
+    <string-array name="tosearchvalues">
+        <item>airport</item>
+        <item>atm</item>
+        <item>bank</item>
+        <item>doctor</item>
+        <item>food</item>
+        <item>train_station</item>
+    </string-array>
+
+</resources>

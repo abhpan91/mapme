@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <ListPreference
+        android:entries="@array/list"
+        android:entryValues="@array/lvalues"
+        android:key="list"
+        android:title="select the view mode" />
+
+    <EditTextPreference
+        android:title="your name??"
+        android:key="name"
+        android:summary="plese give us your name" />
+    <EditTextPreference
+        android:key="time"
+        android:summary="after how much time do you want to locate you in seconds"
+        android:title="location update timing" />
+
+    <ListPreference
+        android:entries="@array/tosearch"
+        android:entryValues="@array/tosearchvalues"
+        android:key="type"
+        android:title="what do you want to search??" />
+
+    <EditTextPreference
+        android:key="radius"
+        android:title="enter your radius of interest" />
+
+</PreferenceScreen>
